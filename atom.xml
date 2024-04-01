@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LuckyFox</title>
   
-  
+  <subtitle>LuckyFox</subtitle>
   <link href="https://7uck9f0x.github.io/atom.xml" rel="self"/>
   
   <link href="https://7uck9f0x.github.io/"/>
