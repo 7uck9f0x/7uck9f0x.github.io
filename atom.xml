@@ -6,7 +6,7 @@
   <link href="https://7uck9f0x.github.io/atom.xml" rel="self"/>
   
   <link href="https://7uck9f0x.github.io/"/>
-  <updated>2024-04-01T22:53:07.571Z</updated>
+  <updated>2024-04-01T22:58:00.879Z</updated>
   <id>https://7uck9f0x.github.io/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="https://7uck9f0x.github.io/2024/04/01/hello/"/>
     <id>https://7uck9f0x.github.io/2024/04/01/hello/</id>
     <published>2024-04-01T22:44:39.000Z</published>
-    <updated>2024-04-01T22:53:07.571Z</updated>
+    <updated>2024-04-01T22:58:00.879Z</updated>
     
-    <content type="html"><![CDATA[<p>#第一个帖子<br>&emsp; 这是我的第一个帖子，2024年3月31日自己搭建了这个博客，其间遇到挺多困难的，像是key的路径不对，hexo主题不会更换等问题，不过好在最终都解决了，这些问题并没有阻挡我搭建这个博客，很开心。</p><p>&emsp; 以后可能会在该博客里分享一些生活，学习心得或者一些想说的话吧UwU</p><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一个帖子"><a href="#第一个帖子" class="headerlink" title="第一个帖子"></a>第一个帖子</h1><p>这是我的第一个帖子，2024年3月31日自己搭建了这个博客，其间遇到挺多困难的，像是key的路径不对，hexo主题不会更换等问题，不过好在最终都解决了，这些问题并没有阻挡我搭建这个博客，很开心。</p><p>以后可能会在该博客里分享一些生活，学习心得或者一些想说的话吧UwU</p><hr><h1 id="First-Post"><a href="#First-Post" class="headerlink" title="First Post"></a>First Post</h1><p>This is my first post. I built this blog on March 31, 2024. I encountered many difficulties during the process, such as the key path was wrong, the hexo theme would not change, etc., but fortunately, they were all solved in the end. Well, these problems did not stop me from setting up this blog, and I am very happy.</p><p>In the future, I may share some life, learning experience or what I want to say in this blog UwU</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;#第一个帖子&lt;br&gt;&amp;emsp; 这是我的第一个帖子，2024年3月31日自己搭建了这个博客，其间遇到挺多困难的，像是key的路径不对，hexo主题不会更换等问题，不过好在最终都解决了，这些问题并没有阻挡我搭建这个博客，很开心。&lt;/p&gt;
-&lt;p&gt;&amp;emsp; 以后可能会在该博</summary>
+    <summary type="html">&lt;h1 id=&quot;第一个帖子&quot;&gt;&lt;a href=&quot;#第一个帖子&quot; class=&quot;headerlink&quot; title=&quot;第一个帖子&quot;&gt;&lt;/a&gt;第一个帖子&lt;/h1&gt;&lt;p&gt;这是我的第一个帖子，2024年3月31日自己搭建了这个博客，其间遇到挺多困难的，像是key的路径不对，hexo主题不</summary>
       
     
     
